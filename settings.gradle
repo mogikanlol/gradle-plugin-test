@@ -1,0 +1,5 @@
+rootProject.name = 'gradle-plugin-test'
+
+
+include 'subproject-1', 'subproject-2', 'subproject-3'
+
